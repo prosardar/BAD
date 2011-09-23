@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6B7B48E6-6CF0-4D22-BD1F-B021B92D1F05}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GameEngine</RootNamespace>
+    <AssemblyName>GameEngine</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Psharp">
+      <HintPath>Generated\Psharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GeneratedClasses\%27dollar_dummy Logic__0_2.cs" />
+    <Compile Include="GeneratedClasses\%27dollar_dummy Logic__0_4.cs" />
+    <Compile Include="GeneratedClasses\%27dollar_dummy Logic__1_2.cs" />
+    <Compile Include="GeneratedClasses\%27dollar_dummy Logic__2_2.cs" />
+    <Compile Include="GeneratedClasses\%27dollar_dummy Logic__3_2.cs" />
+    <Compile Include="GeneratedClasses\%27dollar_dummy Logic__4_2.cs" />
+    <Compile Include="GeneratedClasses\%27dollar_dummy Logic__5_2.cs" />
+    <Compile Include="GeneratedClasses\%27dollar_dummy Logic__6_2.cs" />
+    <Compile Include="GeneratedClasses\%27dollar_dummy Logic__7_2.cs" />
+    <Compile Include="GeneratedClasses\Available_ Indexs_1.cs" />
+    <Compile Include="GeneratedClasses\Available_ Positions_1.cs" />
+    <Compile Include="GeneratedClasses\Belong_2.cs" />
+    <Compile Include="GeneratedClasses\Check_ Next_ Free_3.cs" />
+    <Compile Include="GeneratedClasses\Close_ Line_4.cs" />
+    <Compile Include="GeneratedClasses\Deldb_0.cs" />
+    <Compile Include="Direction.cs" />
+    <Compile Include="GeneratedClasses\Free_ Close_ Line_4.cs" />
+    <Compile Include="GeneratedClasses\Free_ Line_3.cs" />
+    <Compile Include="GameLevel.cs" />
+    <Compile Include="GArea.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GArea.designer.cs">
+      <DependentUpon>GArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEngine.cs" />
+    <Compile Include="GLine.cs" />
+    <Compile Include="GeneratedClasses\Go Smart_5.cs" />
+    <Compile Include="GeneratedClasses\Go_5.cs" />
+    <Compile Include="GeneratedClasses\Include_ Index_1.cs" />
+    <Compile Include="GeneratedClasses\Include_ Ind_ Pos_2.cs" />
+    <Compile Include="GeneratedClasses\Include_ Position_1.cs" />
+    <Compile Include="GeneratedClasses\Line_3.cs" />
+    <Compile Include="GeneratedClasses\Named_ Square_3.cs" />
+    <Compile Include="Ori.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources.Designer.cs" />
+    <Compile Include="GeneratedClasses\Square.cs" />
+    <Compile Include="GeneratedClasses\Square_1.cs" />
+    <Compile Include="GeneratedClasses\Square_2.cs" />
+    <Compile Include="GeneratedClasses\Team_1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="GArea.resx">
+      <DependentUpon>GArea.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources.resx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

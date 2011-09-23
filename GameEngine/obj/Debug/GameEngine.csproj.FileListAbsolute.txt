@@ -1,0 +1,10 @@
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\GameEngine\bin\Debug\GameEngine.dll
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\GameEngine\bin\Debug\GameEngine.pdb
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\GameEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\GameEngine\obj\Debug\GameEngine.dll
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\GameEngine\obj\Debug\GameEngine.pdb
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\GameEngine\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\GameEngine\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\GameEngine\obj\Debug\GameEngine.Resources.resources
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\GameEngine\obj\Debug\GameEngine.EventAfterMove.resources
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\GameEngine\bin\Debug\Psharp.dll

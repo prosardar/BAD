@@ -1,0 +1,12 @@
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\BAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\BAD\obj\x86\Debug\BAD.Properties.Resources.resources
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\BAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\BAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\BAD\obj\x86\Debug\BAD.SettingsForm.resources
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\BAD\bin\Debug\BAD.exe
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\BAD\bin\Debug\BAD.pdb
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\BAD\bin\Debug\GameEngine.dll
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\BAD\bin\Debug\Psharp.dll
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\BAD\bin\Debug\GameEngine.pdb
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\BAD\obj\x86\Debug\BAD.exe
+C:\Users\Sardar\Documents\Visual Studio 2010\Projects\prologGame\BAD\BAD\obj\x86\Debug\BAD.pdb
